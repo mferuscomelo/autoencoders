@@ -5,5 +5,14 @@ Created as an Applied Deep Learning Trainee as part of the MIT FutureMakers prog
 
 This is part of [this](https://blog.keras.io/building-autoencoders-in-keras.html) tutorial.
 
+The following autoencoders are in this repo:
+- a simple autoencoder based on a fully-connected layer
+- a sparse autoencoder
+- a deep fully-connected autoencoder
+- a deep convolutional autoencoder
+- an image denoising model
+- a sequence-to-sequence autoencoder
+- a variational autoencoder
+
 ## Dataset
 The dataset I used can be found here: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/).

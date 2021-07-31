@@ -9,7 +9,7 @@ The following autoencoders are in this repo:
 - [a simple autoencoder based on a fully-connected layer](/simple-autoencoder)
 - [a sparse autoencoder](/sparse-autoencoder)
 - [a deep fully-connected autoencoder](/deep-autoencoder)
-- a deep convolutional autoencoder
+- [a deep convolutional autoencoder](/convolutional-autoencoder)
 - an image denoising model
 - a sequence-to-sequence autoencoder
 - a variational autoencoder

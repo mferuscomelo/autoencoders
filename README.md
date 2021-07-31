@@ -8,7 +8,7 @@ This is part of [this](https://blog.keras.io/building-autoencoders-in-keras.html
 The following autoencoders are in this repo:
 - [a simple autoencoder based on a fully-connected layer](/simple-autoencoder)
 - [a sparse autoencoder](/sparse-autoencoder)
-- a deep fully-connected autoencoder
+- [a deep fully-connected autoencoder](/deep-autoencoder)
 - a deep convolutional autoencoder
 - an image denoising model
 - a sequence-to-sequence autoencoder
